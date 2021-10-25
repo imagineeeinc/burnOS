@@ -1,2 +1,2 @@
 # burnOS
-an experimental os wrriten in rust from scratch
+an experimental os written in rust from scratch
